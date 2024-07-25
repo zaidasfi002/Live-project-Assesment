@@ -1,0 +1,25 @@
+   What is HTML?
+=> HTML stands for HyperText Markup Language. It is a markup
+  language used to create web pages. It is used to define
+  the structure of a web page, including the content, 
+  layout, and style.
+
+   What is the role of HTML in web development?
+=> HTML is essential for creating structured, accessible,
+  and well-presented web content. It forms the backbone of 
+  web development and works in conjunction with CSS and 
+  JavaScript to build modern,responsive, and user-friendly websites.
+
+  Basic Structure of HTML
+  --------------------------
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Document</title>
+  </head>
+  <body>
+          This is basic structure of Html.
+  </body>
+  </html>
